@@ -1,1 +1,6 @@
-#hello world
+road = I_ln                       #road = 1 way lane (input from user)
+
+road_dict = {"I_ln":1, "IV_ln":4, "II_ln":2................"rb":w}       #roads and their cps
+
+cps = road_dict[road]
+EI = 1/cps
